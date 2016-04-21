@@ -8,11 +8,10 @@ The directive is called Highsmorks, only to create a fun unique name.
 
 I highly recommend you go through the examples and API to learn how to use **chartConfig**.
 
-HighStock API - http://api.highcharts.com/highstock
-HighStock Demos - http://www.highcharts.com/stock/demo
-
-HighChart API - http://api.highcharts.com/highcharts
-HighChart Demos - http://www.highcharts.com/demo
+* HighStock API - http://api.highcharts.com/highstock
+* HighStock Demos - http://www.highcharts.com/stock/demo
+* HighChart API - http://api.highcharts.com/highcharts
+* HighChart Demos - http://www.highcharts.com/demo
 
 ## HTML
 
