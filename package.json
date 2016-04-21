@@ -1,0 +1,19 @@
+{
+  "name": "angular-highsmorks",
+  "version": "1.0.0",
+  "description": "Yet another Highcharts interface.",
+  "main": "directive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjobson/angular-highsmorks.git"
+  },
+  "author": "Paul Jobson <pjobson@gmail.com> (http://jobson.us)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjobson/angular-highsmorks/issues"
+  },
+  "homepage": "https://github.com/pjobson/angular-highsmorks#readme"
+}
