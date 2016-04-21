@@ -18,6 +18,10 @@ I highly recommend you go through the examples and API to learn how to use **cha
 Setting up a chart is easy.
 
 	<highsmorks id="chart1" chart-config="{{chartConfig}}" type="StockChart"></highsmorks>
+	
+### type
+
+Type needs to be StockChart or anything else.  This tells the directive to use HighCharts or HighStocks.  **StockChart** is fairly obviously for HighStocks :)
 
 Note "chart-config" this translates to **chartConfig** on the angular side.
 
